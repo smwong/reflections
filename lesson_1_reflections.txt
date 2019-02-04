@@ -1,0 +1,20 @@
+Q. How did viewing a diff between two versions help you spot the bug?
+	I think it allows me to see what worked in the previous version and identify the small differences in the new version that may have caused the code to not work. 
+Q. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+q. How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+	Having the entire history makes it so when major errors happen or large revisions are needed, I won’t have to start back from square one. I can instead pull up an older version and start from there.
+
+Q. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	I think programs like Google Docs treats files separately because that method is better suited to the file types that are commonly stored on their program, like photos and word documents. In this, you most likely would just pick whichever version (often the most recent one) best suits user needs. These files usually are used as individual components
+	For Git, it's important to save multiple files in one commit because things like a website or an app need multiple components working together (e.g. html and css)
+
+Q. How can you use the commands git log and git diff to view the history of files?
+	git log lists out the commit history of the repository. You can identify two commits you want to compare, and look at their differences using git diff
+
+Q. How might using version control make you more confident to make changes that could break something?
+	With version control, I won't be as nervous about making new changes or additions because I know I'll have a working version to fall back on or compare to if there's bugs with new versions.
+
+Q. Now that you have your workspace set up, what do you want to try using Git for?
+	I'd like to try it for everything code related :) But especially designing websites. 

@@ -1,0 +1,2 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+	When you initialize a repository, you're preparing to make a commit. It tells git what files a commit will contain. 
