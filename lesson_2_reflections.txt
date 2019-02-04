@@ -1,2 +1,5 @@
 Q. What happens when you initialize a repository? Why do you need to do it?
-	When you initialize a repository, you're preparing to make a commit. It tells git what files a commit will contain. 
+	When you initialize a repository, you're preparing to make a commit. It tells git what files a commit will contain.
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It allows you to organize and curate what a commit will contain before it actually is saved.  
