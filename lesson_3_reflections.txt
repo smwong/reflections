@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+> When a project needs to be accessible by more than one person, like say with a group project or an app with a lot of people working on it. 
