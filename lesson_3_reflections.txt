@@ -12,3 +12,6 @@ q. What is the benefit of having a copy of the last known state of the remote st
 
 q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 > You could perhaps use other similar file sharing websites, or work on a computer together. It might not work as well, and would be slower if you have to share a computer. 
+
+q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+> This is a good way to test new features and have it checked before allowing it to merge with the master. That way, it can eliminate or reduce the amount of errors or bugs that might occur and also have a chance for second opinions from other team members
